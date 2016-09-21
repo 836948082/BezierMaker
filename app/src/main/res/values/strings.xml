@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">贝塞尔曲线展示</string>
+
+    <string name="rxjava_retrofit">RXJavaRetrofit</string>
+</resources>
